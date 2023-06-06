@@ -6,6 +6,9 @@ I'm a graduate student of Software Engineering at University of Minho 👩‍�
 
 ## 🐱‍👤 About me
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rui8338&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rui8338&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Rui8338/Rui8338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
