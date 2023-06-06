@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋,I'm Rui Silva
+
+[![Email badge](https://img.shields.io/badge/-pedroguisesilva-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pedroguisesilva@gmail.com)
+
+I'm a graduate student of Software Engineering at University of Minho 👩‍💻. 
 
 <!--
 **Rui8338/Rui8338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
