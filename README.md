@@ -4,6 +4,8 @@
 
 I'm a graduate student of Software Engineering at University of Minho 👩‍💻. 
 
+## 🐱‍👤 About me
+
 <!--
 **Rui8338/Rui8338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
