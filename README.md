@@ -2,7 +2,7 @@
 
 [![Email badge](https://img.shields.io/badge/-pedroguisesilva-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pedroguisesilva@gmail.com)
 
-## 🐱‍👤 About me
+## About me
 
 - I recently graduated in Software Engineering from Universidade do Minho
 - I'm eager to launch my career in this field
