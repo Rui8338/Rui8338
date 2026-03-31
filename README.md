@@ -26,10 +26,10 @@
 
 # 🏫 College Projects
 
-- [**Racing Simulator**]() - 
-- [**Solar System Model**]() -
-- [**Search Algorithms**]() - 
-- [**Webapp for Online Fairs**]() - 
+- [**Racing Simulator**](https://github.com/Rui8338/DSS.git) - 
+- [**Solar System Model**](https://github.com/HNovais/CG.git) -
+- [**Search Algorithms**](https://github.com/HNovais/IA.git) - 
+- [**Webapp for Online Fairs**](https://github.com/ederzito88/LI4-Trabalho.git) - 
 
 # 👨‍💻 Personal Projects
 - [**gAIa**](https://github.com/Rui8338/gAIa.git) -
