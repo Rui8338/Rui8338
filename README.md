@@ -32,7 +32,7 @@
 - [**Webapp for Online Fairs**]() - 
 
 # 👨‍💻 Personal Projects
-- [**gAIa**]() -
+- [**gAIa**](https://github.com/Rui8338/gAIa.git) -
 
 <!--
 **Rui8338/Rui8338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
