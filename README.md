@@ -29,11 +29,13 @@
 - [**Racing Simulator**](https://github.com/Rui8338/DSS.git) - 
 - [**Solar System Model**](https://github.com/HNovais/CG.git) -
 - [**Search Algorithms**](https://github.com/HNovais/IA.git) - 
-- [**Webapp for Online Fairs**](https://github.com/ederzito88/LI4-Trabalho.git) - 
+- [**Webapp for Online Fairs**](https://github.com/ederzito88/LI4-Trabalho.git) -
+- [**Burnout Prediction**](https://github.com/joaofaria19/DAA-Trabalho.git) -
+- [**Multi-Agent Supply Chain Simulatio**](https://github.com/AsseB2519/ASMa.git)-
 
 # 👨‍💻 Personal Projects
 - [**gAIa**](https://github.com/Rui8338/gAIa.git) -
-
+- [**nutrirag**](https://github.com/Rui8338/nutri-rag.git) -
 <!--
 **Rui8338/Rui8338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
