@@ -32,6 +32,7 @@
 - [**Webapp for Online Fairs**](https://github.com/ederzito88/LI4-Trabalho.git) -
 - [**Burnout Prediction**](https://github.com/joaofaria19/DAA-Trabalho.git) -
 - [**Multi-Agent Supply Chain Simulatio**](https://github.com/AsseB2519/ASMa.git)-
+- [**Motion Sport**](https://github.com/AsseB2519/SA.git)-
 
 # 👨‍💻 Personal Projects
 - [**gAIa**](https://github.com/Rui8338/gAIa.git) -
